@@ -20,3 +20,5 @@ mvn test -Dtest=GorestRunner
 ```
 
 OBS: Ao executar por linha de comando um relatório será disponibilizado na pasta **target/karate-reports** chamado *gorest.gorest.html*, abra-o em seu navegador para analisar melhor os dados de teste
+
+.
